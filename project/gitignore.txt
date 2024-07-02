@@ -1,0 +1,8 @@
+.venv/
+shops/__pycache__/
+shops/.env
+dist/
+__pycache__
+*.sqlite3
+db.sqlite3
+mediasoft_test/.env
